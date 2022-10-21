@@ -6,11 +6,11 @@
 
 I'm looking for my first job as a dev.
 
-I studied Flutter and Dart for more than 8 months, before I was trying to enter the information security area as a pentester but it ended up that the pramation ended up interesting me much more and I went deeper into my studies. With the help of some friends and internet research, I gradually trained myself and learned more and today I can make a basic application, I also intend to build bigger and more complex things over time.
+I studied Flutter and Dart for more than 8 months, before I was trying to enter the information security area as a pentester but it ended up that the programming ended up interesting me much more and I went deeper into my studies. With the help of some friends and internet research, I gradually trained myself and learned more and today I can make a basic application, I also intend to build bigger and more complex things over time.
 
 Estou a procura de meu primeiro emprego como dev.
 
-Eu estudo Flutter e Dart a mais de 8 meses, antes eu estava tentando ingressar na area de segurança da informação como pentester mas acabou que a pramação acabou me interessando muito mais e fui me aprofundando nos estudos. Com a ajuda de alguns amigos e pesquisas pela internet fui me capacitando aos poucos e aprendendo mais e hoje consigo fazer um aplicativo basico, tambem pretendo construir coisas maiores e mais complexas com o passar do tempo.
+Eu estudo Flutter e Dart a mais de 8 meses, antes eu estava tentando ingressar na area de segurança da informação como pentester mas acabou que a programação acabou me interessando muito mais e fui me aprofundando nos estudos. Com a ajuda de alguns amigos e pesquisas pela internet fui me capacitando aos poucos e aprendendo mais e hoje consigo fazer um aplicativo basico, tambem pretendo construir coisas maiores e mais complexas com o passar do tempo.
 
 <div align="center">
   <a href="https://github.com/Fheli0r">
