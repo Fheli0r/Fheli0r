@@ -4,13 +4,13 @@
 
 ## About me:
 
-I'm looking for my first job as a dev.
+I've been studying programming for over a year and my interest started with programming games with more basic tools like game maker, over time I've been studying more and today I have a great knowledge of Dart with the Flutter framework.
 
-I studied Flutter and Dart for more than 8 months, before I was trying to enter the information security area as a pentester but it ended up that the programming ended up interesting me much more and I went deeper into my studies. With the help of some friends and internet research, I gradually trained myself and learned more and today I can make a basic application, I also intend to build bigger and more complex things over time.
+I do systems analysis and development and with that I'm learning more about web development, Python and information security and computer architecture
 
-Estou a procura de meu primeiro emprego como dev.
+Estudo a programação a mais de um ano e meu interesse começou com programação em jogos com ferramentas mais basicas como o game maker, ao longo do tempo fui estudando mais e hoje possuo um grande conhecimento em Dart com o framework Flutter.
 
-Eu estudo Flutter e Dart a mais de 8 meses, antes eu estava tentando ingressar na area de segurança da informação como pentester mas acabou que a programação acabou me interessando muito mais e fui me aprofundando nos estudos. Com a ajuda de alguns amigos e pesquisas pela internet fui me capacitando aos poucos e aprendendo mais e hoje consigo fazer um aplicativo basico, tambem pretendo construir coisas maiores e mais complexas com o passar do tempo.
+Faço analise e desenvolvimento de sistemas e com isso estou aprendendo mais sobre desenvolvimento web, Python e segurança da informação e arquitetura de computadores
 
 <div align="center">
   <a href="https://github.com/Fheli0r">
