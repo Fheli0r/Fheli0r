@@ -37,24 +37,33 @@ Faço analise e desenvolvimento de sistemas e com isso estou aprendendo mais sob
   
   ## Skills:
   
-  - Linux
+  - Clean Code
   
-  - Logic programming 
-  
-  - POO
+  - CSS
   
   - Dart/Flutter
   
-  - Clean Code
-  
   - GIT
   
-  - Widget Tree
+  - HTML5
+  
+  - Javascript
+  
+  - Kali linux
+  
+  - Linux
+  
+  - Logic programming 
   
   - LifeCycle 
   
   - Navigator
   
-  - Stateful/Stateless
+  - POO  
+  
+  - Widget Tree
+  
+  - Navigator
+  
   
  </div>
