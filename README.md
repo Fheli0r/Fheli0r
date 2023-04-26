@@ -4,13 +4,13 @@
 
 ## About me:
 
-I've been studying programming for over a year and my interest started with programming games with more basic tools like game maker, over time I've been studying more and today I have a great knowledge of Dart with the Flutter framework.
+Desenvolvedor de aplicativos e sites com pequenas experiências em Segurança da informação (Pentesting). Iniciando como desenvolvedor em 2022 aprendi o uso da linguagem Dart, hoje estudo Analise e Desenvolvimento de Sistemas e possuo uma experiência em projetos pessoais que vão desde desenvolvimento web a desenvolvimento móvel.
 
-I do systems analysis and development and with that I'm learning more about web development, Python and information security and computer architecture
+Possuo foco nas linguagens de programação Dart (Com o Framework Flutter), HTML5, CSS3, JavaScript e PHP. 
 
-Estudo a programação a mais de um ano e meu interesse começou com programação em jogos com ferramentas mais basicas como o game maker, ao longo do tempo fui estudando mais e hoje possuo um grande conhecimento em Dart com o framework Flutter.
+Tenho conhecimento de sistemas Linux voltados para Pentesting como o Kali Linux e tenho experiência em ethical hacking que adquiri com a resolução de CTFs.
 
-Faço analise e desenvolvimento de sistemas e com isso estou aprendendo mais sobre desenvolvimento web, Python e segurança da informação e arquitetura de computadores
+Me considero uma pessoa que está em constante evolução e sempre buscando aprender mais, para que eu, além de me tornar um grande profissional possa também evoluir como pessoa e superar futuros desafios.
 
 <div align="center">
   <a href="https://github.com/Fheli0r">
