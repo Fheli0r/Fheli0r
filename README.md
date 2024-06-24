@@ -4,11 +4,11 @@
 
 ## About me:
 
-Desenvolvedor de aplicativos e sites com pequenas experiências em Segurança da informação (Pentesting). Iniciando como desenvolvedor em 2022 aprendi o uso da linguagem Dart, hoje estudo Analise e Desenvolvimento de Sistemas e possuo uma experiência em projetos pessoais que vão desde desenvolvimento web a desenvolvimento móvel.
+Analista de segurança da informação com experiencia em desenvolvimento em aplicações e web, hoje utilizo desse conhecimento para a criação de scripts que vão desde automação de ferramentas para blue team a criação de ferramentas para pentest. Hoje estudo cyber segurança e procuro me especializar em pentest, pra ser futuramente considerado purple team.
 
-Possuo foco nas linguagens de programação Dart (Com o Framework Flutter), HTML5, CSS3, JavaScript e PHP. 
+Meu foco na criação de scripts e automatização é a linguagem python, porém também tenho conhecimento das linguagens dart, PHP e javascript.
 
-Tenho conhecimento de sistemas Linux voltados para Pentesting como o Kali Linux e tenho experiência em ethical hacking que adquiri com a resolução de CTFs.
+Já estive em top 1 do mês na plataforma tryhackme durante dois meses seguidos e hoje faço CTF para fins educativos.
 
 Me considero uma pessoa que está em constante evolução e sempre buscando aprender mais, para que eu, além de me tornar um grande profissional possa também evoluir como pessoa e superar futuros desafios.
 
@@ -32,38 +32,31 @@ Me considero uma pessoa que está em constante evolução e sempre buscando apre
   ## Social networks:
   
   <div>
-  <a href="https://www.instagram.com/fheli0r_pv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kauan-querino-08b2b0236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ## Skills:
   
-  - Clean Code
+  - GSTI
   
-  - CSS
-  
-  - Dart/Flutter
-  
-  - GIT
-  
-  - HTML5
-  
-  - Javascript
-  
-  - Kali linux
+  - Exploitation
+
+  - Incident Response & Forensics
   
   - Linux
   
   - Logic programming 
   
-  - LifeCycle 
+  - PYTHON
+
+  - Pentest fundamentals
+
+  - Password cracking
+
+  - OWASP
   
-  - Navigator
+  - Vulnerability Analyst
   
-  - POO  
-  
-  - Widget Tree
-  
-  - Navigator
+  - WAF
   
   
  </div>
