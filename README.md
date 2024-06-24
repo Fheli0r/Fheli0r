@@ -1,4 +1,4 @@
-## Hi, I'm Fheli0r and I'm a Mobile and Web Developer 👋
+## Hi, I'm Fheli0r, I'm a cyber security student and I work with SOC 👋
 
 ![pochita-chainsaw-man](https://user-images.githubusercontent.com/102917070/197260084-f2db0953-7d4f-410f-8fde-18ecaedc36af.gif)
 
