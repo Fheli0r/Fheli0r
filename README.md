@@ -1,16 +1,14 @@
-## Hi, I'm Fheli0r, I'm a cyber security student and I work with SOC 👋
+## Hi, I'm Fheli0r, I'm a cyber security engineer and I work with SOC 👋
 
 ![pochita-chainsaw-man](https://user-images.githubusercontent.com/102917070/197260084-f2db0953-7d4f-410f-8fde-18ecaedc36af.gif)
 
 ## About me:
 
-Analista de segurança da informação com experiencia em desenvolvimento em aplicações e web, hoje utilizo desse conhecimento para a criação de scripts que vão desde automação de ferramentas para blue team a criação de ferramentas para pentest. Hoje estudo cyber segurança e procuro me especializar em pentest, pra ser futuramente considerado purple team.
+Sou profissional de Cibersegurança com foco em Engenharia em Segurança da Informação, atuando na análise de incidentes e análise de malwares. Utilizo Python para o desenvolvimento de automações e integrações voltadas à otimização de processos de segurança, como a implementação e aprimoramento de soluções SIEM, EDR e ferramentas de Threat Hunting, garantindo maior eficiência na detecção e resposta a ameaças.
 
-Meu foco na criação de scripts e automatização é a linguagem python, porém também tenho conhecimento das linguagens dart, PHP e javascript.
+Com experiência prática em Blue Team e conhecimento consolidado em Red Team, busco constantemente alinhar eficiência operacional com visão ofensiva, fortalecendo defesas e reduzindo o tempo de resposta a incidentes.
 
-Já estive em top 1 do mês na plataforma tryhackme durante dois meses seguidos e hoje faço CTF para fins educativos.
-
-Me considero uma pessoa que está em constante evolução e sempre buscando aprender mais, para que eu, além de me tornar um grande profissional possa também evoluir como pessoa e superar futuros desafios.
+Sou movido por desafios técnicos e pela melhoria contínua das operações de segurança, combinando engenharia, automação e análise para entregar soluções eficazes e escaláveis no ecossistema de cibersegurança.
 
 <div align="center">
   <a href="https://github.com/Fheli0r">
