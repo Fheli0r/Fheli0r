@@ -14,49 +14,43 @@ Me considero uma pessoa que está em constante evolução e sempre buscando apre
 
 <div align="center">
   <a href="https://github.com/Fheli0r">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Fheli0r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fheli0r&layout=compact&langs_count=7&theme=dracula"/>
   
   ## Languages and tool:
   
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
-  
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  
-  <img align="center" alt="Rafa-Js" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
-  
-  <img align="center" alt="Rafa-Js" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" alt="kauan-py" height="100" width="100" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg](https://www.svgrepo.com/show/376344/python.svg)" /> 
+  <img align="center" alt="git" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   
   ## Social networks:
   
   <div>
   <a href="https://www.linkedin.com/in/kauan-querino-08b2b0236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@kauanquerinosp" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://app.letsdefend.io/user/fhelior" target="_blank"><img src="https://repository-images.githubusercontent.com/521356391/cca7615d-193c-4037-b9a3-67c0e4c281a9" target="_blank"></a>
   
   ## Skills:
   
-  - GSTI
-  
-  - Exploitation
+  - Python 
 
   - Incident Response & Forensics
-  
-  - Linux
-  
-  - Logic programming 
-  
-  - PYTHON
 
-  - Pentest fundamentals
-
-  - Password cracking
-
-  - OWASP
+  - Malware Development & Analysis   
   
-  - Vulnerability Analyst
+  - Windows & Linux
+
+  - Frameworks e Metodologias: OWASP, NIST, CIS, ISO 27001
+
+  - Vulnerabilidades e Ameaças: CVEs, gestão de patches, análise de vulnerabilidades
+
+  - Ameaças Avançadas: APTs (Advanced Persistent Threats), threat intelligence
+
+  - Segurança de Aplicações: AppSec, análise de código, testes de penetração
+
+  - Ferramentas e Automação: SIEM, scripts Python para automação de segurança
   
-  - WAF
+
   
   
  </div>
