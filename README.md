@@ -20,15 +20,16 @@ Me considero uma pessoa que está em constante evolução e sempre buscando apre
   
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="kauan-py" height="100" width="100" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg](https://www.svgrepo.com/show/376344/python.svg)" /> 
+  <img align="center" alt="kauan-py" height="100" width="100" src="https://www.svgrepo.com/show/376344/python.svg" /> 
   <img align="center" alt="git" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   
   ## Social networks:
   
   <div>
+  <a href="https://tryhackme.com/p/Fhelior" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjSgYZBDzynRFFpklBrKhrFgoEDSlXTPYosg&s" target="_blank"></a>
+  <a href="https://app.letsdefend.io/user/fhelior" target="_blank"><img src="https://repository-images.githubusercontent.com/521356391/cca7615d-193c-4037-b9a3-67c0e4c281a9" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kauan-querino-08b2b0236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@kauanquerinosp" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" target="_blank"></a>
-  <a href="https://app.letsdefend.io/user/fhelior" target="_blank"><img src="https://repository-images.githubusercontent.com/521356391/cca7615d-193c-4037-b9a3-67c0e4c281a9" target="_blank"></a>
   
   ## Skills:
   
